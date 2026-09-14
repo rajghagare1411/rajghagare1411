@@ -1,15 +1,36 @@
-# Hi, I'm Raj Ghagare 👋
+<h1 align="center">Hey 👋, I'm Raj Ghagare</h1>
 
-### BTech AIML Engineering Student | Machine Learning | Python | Software Development
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Engineering+Student+%F0%9F%8E%93;Exploring+Technology+%26+Software+Development+%F0%9F%92%BB;Learning+%26+Building+with+Code+%F0%9F%9A%80;Turning+Ideas+into+Projects+%F0%9F%92%A1;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing Animation" />
+</p>
 
-I'm a third-year BTech student specializing in **Artificial Intelligence & Machine Learning**.  
-I enjoy building practical projects using Python, Machine Learning, Data Science, and modern web technologies.
+<p align="center">
+  <a href="https://github.com/Raj-Ghagare">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-- 🎓 BTech – Artificial Intelligence & Machine Learning
-- 💻 Interested in Software Development & AI/ML
-- 🧠 Currently learning Machine Learning, Deep Learning & Data Science
-- 🚀 Building practical projects and improving my problem-solving skills
-- 📍 India
+---
+
+## 💫 About Me
+
+I'm an engineering student who enjoys learning through **building, experimenting, and solving problems with code**.
+
+* 🎓 Currently pursuing my **B.Tech**
+* 💻 Exploring **programming, development, and emerging technologies**
+* 🧠 Interested in learning how technology can solve real-world problems
+* 🔨 Believe in learning by **building practical projects**
+* 🌱 Continuously improving my technical and problem-solving skills
+* 🚀 Working towards becoming a strong and versatile software professional
+
+---
+
+## 🎓 Education
+
+- 🎓 **B.Tech in AI & ML** — Universal SkillTech University, Mumbai `2024 – 2028` ·
 
 ---
 
@@ -40,50 +61,75 @@ I enjoy building practical projects using Python, Machine Learning, Data Science
 ## 🚀 Featured Projects
 
 ### 📄 Resume Shortlisting Classifier
-Machine Learning project that classifies candidates as **Shortlisted / Rejected** based on structured resume and candidate features.
+Machine Learning project that classifies candidates as *Shortlisted / Rejected* based on structured resume and candidate features.
 
-**Tech:** Python, Pandas, Scikit-learn, Machine Learning
+*Tech:* Python, Pandas, Scikit-learn, Machine Learning
 
 ---
 
 ### 🧠 LectureMind AI
-An AI-powered study companion designed to help students learn through **AI-generated summaries, flashcards, quizzes and educational content**.
+An AI-powered study companion designed to help students learn through *AI-generated summaries, flashcards, quizzes and educational content*.
 
-**Tech:** React, Vite, JavaScript, AI APIs
+*Tech:* React, Vite, JavaScript, AI APIs
 
 ---
 
 ### 🛡️ Risk & Anomaly Detection System
-A Machine Learning project focused on identifying **anomalous or risky transaction behaviour** while reducing false alerts.
+A Machine Learning project focused on identifying *anomalous or risky transaction behaviour* while reducing false alerts.
 
-**Tech:** Python, Machine Learning, Data Analytics
+*Tech:* Python, Machine Learning, Data Analytics
 
 ---
 
 ### ❤️ ECG Signal Classification
-Deep Learning project using **LSTM** for classification of ECG signals.
+Deep Learning project using *LSTM* for classification of ECG signals.
 
-**Tech:** Python, TensorFlow/Keras, LSTM, Deep Learning
-
----
-
-## 📚 Currently Learning
-
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Data Structures & Algorithms
-- Data Science & Analytics
-- Software Development
-- Generative AI
+*Tech:* Python, TensorFlow/Keras, LSTM, Deep Learning
 
 ---
 
-## 🎯 Career Goal
+## 📚 What I'm Exploring
 
-My goal is to become a **skilled Software Engineer / AI-ML Engineer** by continuously improving my programming, problem-solving, and project-building skills.
+```text
+Programming & Problem Solving
+        ↓
+Data Structures & Algorithms
+        ↓
+Software Development
+        ↓
+Artificial Intelligence & Emerging Technologies
+        ↓
+Building Real-World Projects
+```
 
-I believe in learning by building real-world projects and turning concepts into practical solutions.
+* 🧩 Data Structures & Algorithms
+* 🐍 Python & Programming
+* 🌐 Web Development
+* 🤖 Artificial Intelligence & Machine Learning
+* 🗄️ Databases
+* 🔧 Git & GitHub
+* 💡 Problem Solving
+
+---
+
+
+
+## 🎯 My Focus
+
+<table>
+<tr>
+<td>💻 Coding</td>
+<td>🧠 Problem Solving</td>
+</tr>
+<tr>
+<td>🚀 Project Building</td>
+<td>📚 Continuous Learning</td>
+</tr>
+<tr>
+<td>🤖 Exploring AI</td>
+<td>🌱 Personal Growth</td>
+</tr>
+</table>
 
 ---
 
@@ -95,7 +141,6 @@ I believe in learning by building real-world projects and turning concepts into 
 </p>
 
 ---
-
 ## 🤝 Connect With Me
 
 <p align="left">
@@ -107,9 +152,29 @@ I believe in learning by building real-world projects and turning concepts into 
   </a>
 </p>
 
+## 📚 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Data Structures & Algorithms
+- Data Science & Analytics
+- Software Development
+- Generative AI
+- 
+## 🌱 What's Next?
+
+> **Learn something new → Build something useful → Share it → Improve it.**
+
+I'm currently focused on improving my skills, creating projects, and exploring where technology can take me.
+
 ---
 
-⭐ **Thanks for visiting my profile!**
+<h3 align="center">✨ Code • Create • Learn • Grow ✨</h3>
+
+<p align="center">
+  ⭐ Thanks for stopping by my profile!
+</p>
 
 
 
